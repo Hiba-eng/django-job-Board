@@ -31,6 +31,18 @@ Blog:
 contacts:
 home
 
-
 login
 
+
+
+virtual env:
+Creat
+activate(Scripts\activate)
+pip install
+deactive
+
+-upload project on github
+url:path
+view:logic
+model:db
+templates:frontend
